@@ -1,7 +1,5 @@
 # noteLess
 learn Less 
-<<<<<<< HEAD
-=======
 # note-less
 
 ## Project setup
@@ -26,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> b6cc8eb (init note-less)
